@@ -55,6 +55,7 @@ p {
     height: 500px;
     font-size: 20px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin-bottom: 2rem;
 }
 
 .date-time {
